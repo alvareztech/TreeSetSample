@@ -1,4 +1,4 @@
-# TreeSetSample
+# TreeSet
 Ejemplo de uso de un TreeSet de Java. Este código es parte del código del curso de estructura de datos en Java.
 
 ## Características
